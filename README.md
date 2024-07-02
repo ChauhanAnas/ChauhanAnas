@@ -1,3 +1,4 @@
+![logo](https://github.com/ChauhanAnas/ChauhanAnas/blob/main/bg.png)
 <h1 align="center">Hi 👋, I'm Anas Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
